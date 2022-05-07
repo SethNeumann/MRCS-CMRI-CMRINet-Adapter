@@ -1,10 +1,6 @@
-### How to use this template:
+This is another wiring adapter for classic CMRI boards.  This one is for the CMRINet (RS485) line.  It plugs onto the 5 pin
+male molex header (0.156) and brings out 2 sets of 0.100" (2.54mm) or 3.5mm pads for connection to the CMRINet.  This allows
+connection without terminating a molex cable.  Note the spacing too tight for two on an SMINI so I've included two sets of screw 
+terminals to support the daisy chain.
 
-  1. Create a repo using this template, 
-  2. Create your project content using eagle...
-  3. Edit the other text files to describe your project
-  4. git add .
-  5. git commit -m "add to git"
-  6. git tag -a 1.0 -m 1.0
-  7. git push origin 1.0
-  
+User Ed Klein requested this adapter.
