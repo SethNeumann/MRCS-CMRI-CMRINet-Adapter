@@ -10,3 +10,13 @@ EagleTemplate-new.sch
 *.dri
 *.s##
 *.s#1
+*.GBL
+*.GBO
+*.GBS
+*.GML
+*.GTL
+*.GTO
+*.GTP
+*.GTS
+*.TXT
+*.scr
